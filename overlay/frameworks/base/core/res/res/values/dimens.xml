@@ -20,5 +20,8 @@
 
     <!-- Default radius of the software rounded corners. -->
     <dimen name="rounded_corner_radius">14dp</dimen>
+    
+    <!-- The max scale for the wallpaper when it's zoomed in -->
+    <item name="config_wallpaperMaxScale" format="float" type="dimen">1</item>
 
 </resources>
